@@ -1,4 +1,7 @@
 {
+    "engines" : {
+    "node": "24.15.0"
+    },
   "name": "docuflow",
   "version": "1.0.0",
   "description": "Lightweight collaborative document editor",
